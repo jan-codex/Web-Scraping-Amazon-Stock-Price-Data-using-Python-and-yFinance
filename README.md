@@ -21,10 +21,12 @@ To run this script, you need the following Python libraries:
 
 _After installing the given libraries, you can now import them_ 
 
+```
 import pandas as pd
 import yfinance as yf
 import datetime as dt
 from datetime import date, timedelta
+```
 
 To get today’s date and the date one year ago.
 ```
